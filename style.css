@@ -145,7 +145,7 @@ nav button{
 .tv2 .vid video{
     position: absolute;
     width: 23vw;
-    min-width: 8rem;
+/*     min-width: 8rem; */
     top: 2vw;
     left: 6vw;
     z-index: -1;
