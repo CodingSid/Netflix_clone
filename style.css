@@ -127,13 +127,13 @@ nav button{
 .tv .vid img{
     width: 35vw;
     max-height: 35rem;
-    min-width: 13rem;
+/*     min-width: 13rem; */
     object-fit: contain;
 }
 .tv .vid video{
     position: absolute;
     width: 27vw;
-    min-width: 10rem;
+/*     min-width: 10rem; */
     top: 5vw;
     left: 5vw;
     z-index: -1;
